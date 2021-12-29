@@ -21,12 +21,21 @@ This Projects serves below usecases:
  - [Installation Requirements](#Installation-Requirements)
  - [Installation Guide First Phase](https://github.com/archanchoudhury/SOC-OpenSource/blob/main/installation/install1.md)
  - [Installation Guide Second Phase](https://github.com/archanchoudhury/SOC-OpenSource/blob/main/installation/install2.md)
+ - [Shuffle Automation Install Guide](https://github.com/archanchoudhury/SOC-OpenSource/blob/main/installation/shuffle-install.md)
  - [Integration Guide First Phase](https://github.com/archanchoudhury/SOC-OpenSource/blob/main/integration/integration.md)
+ - [Shuffle Workflow Implementation](#Shuffle-Workflow-Implementation)
  - [Contributing](#Contributing)
  - [Support](#Support)
 
 # ☸Architecture-Diagram(Ongoing):
 <p align="center"> <img src="images/simpler-soc.png"> </p>
+
+# ☸Shuffle-SOAR workflow(Ongoing):
+<p align="center"> <img src="images/shuffle-workflow.PNG"> </p>
+
+## ☸Shuffle-Workflow-Implementation
+ - For utilizing Shuffle workflow please first refer the installation guideline from Index.
+ - Once you have your shuffle instance up and running, please refer to this video HERE for full walkthrough.
 
 # ☸Components(First Phase of Implementation):
 All of the components used in this projects are Open Source.
