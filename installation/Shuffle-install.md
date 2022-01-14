@@ -16,13 +16,17 @@ sudo apt install docker-compose
 git clone https://github.com/frikky/Shuffle
 cd Shuffle
 ```
+  - Run docker-compose.
+```
+sudo docker-compose up -d #Wait till the process is completed, shuffle-database folder will now be created.
+```
   - Fix prerequisites for the Opensearch database (Elasticsearch):
 ```bash
 sudo chown 1000:1000 -R shuffle-database 		
 ```
-  - Run docker-compose.
+  - Restart docker-compose.
 ```
-sudo docker-compose up -d
+sudo docker-compose restart
 ```
   - Once done verify your service by checking below
 ```bash
