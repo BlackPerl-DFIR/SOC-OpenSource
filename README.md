@@ -36,7 +36,13 @@ This Projects serves below usecases:
 
 ## ☸Shuffle-Workflow-Implementation
  - For utilizing Shuffle workflow please first refer the installation guideline from Index.
- - Once you have your shuffle instance up and running, please refer to this video HERE for full walkthrough.
+ - Once you have your shuffle instance up and running, please refer to this video [HERE](https://youtu.be/Nb9_ahZMC5U) for full walkthrough.
+
+# ☸Adding EDR to Stack(Ongoing):
+<p align="center"> <img src="images/Part3.png"> </p>
+
+## ☸EDR Implementation
+ - Once you have your Elastic instance up and running, please refer to this video [HERE](https://youtu.be/fXLsY_eZoeE) for full walkthrough.
 
 # ☸Components(First Phase of Implementation):
 All of the components used in this projects are Open Source.
