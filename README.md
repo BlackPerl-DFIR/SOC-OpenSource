@@ -25,6 +25,7 @@ This Projects serves below usecases:
  - [Shuffle Automation Install Guide](https://github.com/archanchoudhury/SOC-OpenSource/blob/main/installation/Shuffle-install.md)
  - [Integration Guide First Phase](https://github.com/archanchoudhury/SOC-OpenSource/blob/main/integration/integration.md)
  - [Shuffle Workflow Implementation](#Shuffle-Workflow-Implementation)
+ - [Elastic EDR Implementation]()
  - [Contributing](#Contributing)
  - [Support](#Support)
 
@@ -42,6 +43,7 @@ This Projects serves below usecases:
 <p align="center"> <img src="images/Part3.png"> </p>
 
 ## ☸EDR Implementation
+ - Please Refer the installation guideline from Index.
  - Once you have your Elastic instance up and running, please refer to this video [HERE](https://youtu.be/fXLsY_eZoeE) for full walkthrough.
 
 # ☸Components(First Phase of Implementation):
@@ -65,8 +67,8 @@ All of the components used in this projects are Open Source.
  - **Shuffle**: [Shuffle](https://shuffler.io/) is an Open Source SOAR solution for making orchestration easy between security tools.
  - **Twitter Bot**: We have created Twitter TI bot to collect meaningful intel about anything we care about and thus giving us the related information around them. You can find the episode [HERE](https://youtu.be/onklNNJcfDU)
 
-## Additional Components(Third Phase of Implementation):
-TBD
+## ☸Additional Components(Third Phase of Implementation):
+ - **Elastic EDR**: [Elastic EDR](https://www.elastic.co/endpoint-security/) prevents ransomware and malware, detects advanced threats, and arms responders with vital context. It’s free and open, ready for every endpoint.
 
 # 🔽Installation-Requirements: 
 We have created the environment in AWS. You can follow along or choose any other alternative cloud provider. Or ever you can utilize EKS to deploy the full setup.
