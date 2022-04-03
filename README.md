@@ -9,7 +9,7 @@ This Projects serves below usecases:
  - **Collect Data** to a Single Place.
  - **Normalize** and **Parse Data**
  - **Visualize Data** and prepare meaningful Security Analytics
- - Create **Incidents/Cases** out of Secuirty Alerts identified based on collected data/logs
+ - Create **Incidents/Cases** out of Security Alerts identified based on collected data/logs
  - **Automate** process of Threat Hunt, Creation of actionable Playbooks, SOC data Analytics
  - **Automate** the process of analsis observables they have collected, **at scale, by querying a single tool** instead of several
  - Actively respond to threats and interact with the constituency and other teams
