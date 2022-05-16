@@ -5,16 +5,9 @@ Contact Info: archan.fiem.it@gmail.com, hk.sainaga@gmail.com
 We will install and configure all of the components First and will move to Integrating them one by one.
 ## Elasticsearch-Kibana:
  - SSH into your VM created for Elastic SIEM
- - Run below commands to spin up elasticseach and kibana using docker. (Note- If any of the below utilities doesn't exists, use "sudo apt install <package>" )
- ```bash
- sudo apt update
- sudo apt upgrade
- sudo apt install docker-compose
- sudo apt install docker.io
- cd /
- wget https://raw.githubusercontent.com/archanchoudhury/SOC-OpenSource/main/codes/elk/docker-compose.yml?token=AMFWN76WO6EJP3LVF5DVHNLBWN7KQ
- sudo docker-compose up -d
- ```
+ - Refer **[Elastic Official Repo](https://github.com/elastic/elasticsearch)** for installation of the Elastic Stack(Elastic Search- Kibana)
+ - Reach out to us for usage of custom docker code.
+
   - Run below to check if the host is listening on 9200, 5601 to confirm the service
  ```bash
  netstat -ltpnd
