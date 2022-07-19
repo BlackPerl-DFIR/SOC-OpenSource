@@ -25,7 +25,7 @@ This Projects serves below usecases:
  - [Shuffle Automation Install Guide](https://github.com/archanchoudhury/SOC-OpenSource/blob/main/installation/Shuffle-install.md)
  - [Integration Guide First Phase](https://github.com/archanchoudhury/SOC-OpenSource/blob/main/integration/integration.md)
  - [Shuffle Workflow Implementation](#Shuffle-Workflow-Implementation)
- - [Elastic EDR Implementation]()
+ - [Elastic EDR Implementation](#EDR-Implementation)
  - [Contributing](#Contributing)
  - [Support](#Support)
 
@@ -42,7 +42,7 @@ This Projects serves below usecases:
 # ☸Adding EDR to Stack(Ongoing):
 <p align="center"> <img src="images/Part3.png"> </p>
 
-## ☸EDR Implementation
+## ☸EDR-Implementation
  - Please Refer the installation guideline from Index.
  - Once you have your Elastic instance up and running, please refer to this video [HERE](https://youtu.be/fXLsY_eZoeE) for full walkthrough.
 
