@@ -2,7 +2,7 @@
 
 Contact Info: archan.fiem.it@gmail.com, hk.sainaga@gmail.com
 # Shuffle Installation Guide:
-  - You can check the full installation guide from [HERE](https://github.com/frikky/Shuffle/edit/master/.github/install-guide.md)
+  - You can check the full installation guide from [HERE](https://github.com/Shuffle/Shuffle/blob/main/.github/install-guide.html)
   - SSH into the VM which you have spinned up for installing Shuffle
   - Make sure you have [Docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/) installed.
 ```bash
